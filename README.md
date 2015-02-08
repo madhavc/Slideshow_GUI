@@ -1,4 +1,5 @@
 #Slideshow_GUI
+ A Simple Slideshow program that will display a list of images in a file name Slideshow.txt
 ##Specifications
 <ul>
   <li>Delay between images will be 3 seconds.</li>
